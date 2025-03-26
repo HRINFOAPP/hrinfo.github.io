@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **HR Info Website** is a comprehensive HR management platform that includes various modules to simplify HR operations, including Employee Management, Recruitment, Leave Management, Time and Attendance, Payroll, and more. The platform is designed to make HR processes more efficient and user-friendly.
+The **HR Info Application** is a comprehensive HR management platform that includes various modules to simplify HR operations, including Employee Management, Recruitment, Leave Management, Time and Attendance, Payroll, and more. The application is designed to make HR processes more efficient and user-friendly, providing easy access and management of HR-related tasks and data directly from your desktop or mobile device.
 
 ---
 
